@@ -176,3 +176,5 @@ DVC
 
     ECR_REPOSITORY_NAME = simple-app
 
+# Screenshots
+![alt text](<Screenshot 2024-08-14 192554.png>) ![alt text](<Screenshot 2024-08-14 192537.png>)
